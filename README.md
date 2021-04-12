@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on @a1tec projects.
+- 🔭 I’m currently working on @OriginSoftware projects.
 - 🌱 I’m currently learning .NET tecnologies.
 - 👯 I’m looking to collaborate on fun things.
 - 💬 Ask me about my projects
