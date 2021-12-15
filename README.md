@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on fun things.
 - 💬 Ask me about my projects
 - 📫 How to reach me: lucasjavierquintanilla@gmail.com
-- 😄 Pronouns: luquitas
+- 😄 Pronouns: Luke
 
