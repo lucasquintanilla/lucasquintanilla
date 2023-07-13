@@ -5,5 +5,3 @@
 - 👯 I’m looking to collaborate on interesting things.
 - 💬 Ask me about my projects
 - 📫 How to reach me: lucasjavierquintanilla@gmail.com
-- 😄 Pronouns: lucky
-
