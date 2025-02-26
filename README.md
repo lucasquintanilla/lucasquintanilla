@@ -1,6 +1,5 @@
-### Hi there, I'm Lucas, Software Developer from Argentina 👋 currently living and working in Dublin, Ireland
-
-- 🔭 I’m currently working on @ProtegoTechnologies projects.
+### Hi there, this is Lucas
+- 🔭 I’m currently working on full-stack projects.
 - 🌱 Learning Cloud and .NET tecnologies.
 - 👯 I’m looking to collaborate on interesting things.
 - 💬 Ask me about my projects
